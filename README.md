@@ -1,4 +1,4 @@
-**Skip List**
+# Skip List
 
 Skip List is a data structure that allows fast search within an ordered sequence of elements. The search is made fast by maintaining a linked hierarchy of subsequences, with each successive subsequence skipping over fewer elements than the previous one. It allows quick search, insertions and deletions of elements.
 
